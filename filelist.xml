@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentpackage name="Numbers' Matriarch Gene Buff" modversion="1.0.0" corepackage="False" steamworkshopid="2968658481" gameversion="1.0.9.0">
+  <Afflictions file="%ModDir%/AfflictionsGeneticMaterial.xml" />
+</contentpackage>
