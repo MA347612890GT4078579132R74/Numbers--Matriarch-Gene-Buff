@@ -15,50 +15,50 @@
       <StatusEffect target="Character" interval="0.1" disabledeltatime="true">
         <ReduceAffliction type="damage" amount="0.01" />
         <ReduceAffliction type="bleeding" amount="0.0025" />
-        <ReduceAffliction type="righthandfracture" amount="0.1" />
-        <ReduceAffliction type="lefthandfracture" amount="0.1" />
-        <ReduceAffliction type="rightlegfracture" amount="0.1" />
-        <ReduceAffliction type="leftlegfracture" amount="0.1" />
+        <ReduceAffliction type="righthandfracture" amount="1.0" />
+        <ReduceAffliction type="lefthandfracture" amount="1.0" />
+        <ReduceAffliction type="rightlegfracture" amount="1.0" />
+        <ReduceAffliction type="leftlegfracture" amount="1.0" />
       </StatusEffect>
     </Effect>
     <Effect minstrength="20" maxstrength="40">
       <StatusEffect target="Character" interval="0.1" disabledeltatime="true">
         <ReduceAffliction type="damage" amount="0.035" />
         <ReduceAffliction type="bleeding" amount="0.0088" />
-        <ReduceAffliction type="righthandfracture" amount="0.35" />
-        <ReduceAffliction type="lefthandfracture" amount="0.35" />
-        <ReduceAffliction type="rightlegfracture" amount="0.35" />
-        <ReduceAffliction type="leftlegfracture" amount="0.35" />
+        <ReduceAffliction type="righthandfracture" amount="3.5" />
+        <ReduceAffliction type="lefthandfracture" amount="3.5" />
+        <ReduceAffliction type="rightlegfracture" amount="3.5" />
+        <ReduceAffliction type="leftlegfracture" amount="3.5" />
       </StatusEffect>
     </Effect>
     <Effect minstrength="40" maxstrength="60">
       <StatusEffect target="Character" interval="0.1" disabledeltatime="true">
         <ReduceAffliction type="damage" amount="0.05" />
         <ReduceAffliction type="bleeding" amount="0.0125" />
-        <ReduceAffliction type="righthandfracture" amount="0.5" />
-        <ReduceAffliction type="lefthandfracture" amount="0.5" />
-        <ReduceAffliction type="rightlegfracture" amount="0.5" />
-        <ReduceAffliction type="leftlegfracture" amount="0.5" />
+        <ReduceAffliction type="righthandfracture" amount="5.0" />
+        <ReduceAffliction type="lefthandfracture" amount="5.0" />
+        <ReduceAffliction type="rightlegfracture" amount="5.0" />
+        <ReduceAffliction type="leftlegfracture" amount="5.0" />
       </StatusEffect>
     </Effect>
     <Effect minstrength="60" maxstrength="80">
       <StatusEffect target="Character" interval="0.1" disabledeltatime="true">
         <ReduceAffliction type="damage" amount="0.065" />
         <ReduceAffliction type="bleeding" amount="0.016" />
-        <ReduceAffliction type="righthandfracture" amount="0.65" />
-        <ReduceAffliction type="lefthandfracture" amount="0.65" />
-        <ReduceAffliction type="rightlegfracture" amount="0.65" />
-        <ReduceAffliction type="leftlegfracture" amount="0.65" />
+        <ReduceAffliction type="righthandfracture" amount="6.5" />
+        <ReduceAffliction type="lefthandfracture" amount="6.5" />
+        <ReduceAffliction type="rightlegfracture" amount="6.5" />
+        <ReduceAffliction type="leftlegfracture" amount="6.5" />
       </StatusEffect>
     </Effect>
     <Effect minstrength="80" maxstrength="100">
       <StatusEffect target="Character" interval="0.1" disabledeltatime="true">
         <ReduceAffliction type="damage" amount="0.075" />
         <ReduceAffliction type="bleeding" amount="0.018" />
-        <ReduceAffliction type="righthandfracture" amount="0.75" />
-        <ReduceAffliction type="lefthandfracture" amount="0.75" />
-        <ReduceAffliction type="rightlegfracture" amount="0.75" />
-        <ReduceAffliction type="leftlegfracture" amount="0.75" />
+        <ReduceAffliction type="righthandfracture" amount="7.5" />
+        <ReduceAffliction type="lefthandfracture" amount="7.5" />
+        <ReduceAffliction type="rightlegfracture" amount="7.5" />
+        <ReduceAffliction type="leftlegfracture" amount="7.5" />
       </StatusEffect>
     </Effect>
     <icon texture="Content/UI/TalentsIcons3.png" sheetindex="4,0" sheetelementsize="128,128" color="163,73,764,255" origin="0,0"/>
